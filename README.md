@@ -1,56 +1,29 @@
-<div align="center">
-  <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, myself Priyanshi Bothra!</h1>
-<div align="left">
-
-- 👀 I’m interested in TECH
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 📫 How to reach me gmail- @priyanshibothra753@gmail.com LinkedIn: https://www.linkedin.com/in/priyanshi-bothra-339568219/
+<h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <br>
 <div align="center">
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
 </div>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi0609&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi0609" /> </p>
 
-#  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=priyanshi0609&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi0609&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi0609&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi0609" alt="priyanshi0609" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/priyanshib06?t=uvmhbxt6bqvh49i5gvmvfw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/priyanshib06?t=uvmhbxt6bqvh49i5gvmvfw&s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/priyanshi-bothra-339568219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshi-bothra-339568219" height="30" width="40" /></a>
+</p>
 
-<h2 align="center">Profile Stats</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshi0609&show_icons=true&locale=en&layout=compact" alt="priyanshi0609" /></p>
 
-<a href="https://github.com/ArshTiwari2004">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshi0609&theme=algolia"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshi0609&theme=algolia" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=priyanshi0609&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi0609&theme=algolia&hide_border=true&stroke=0000"  />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshi0609&show_icons=true&locale=en" alt="priyanshi0609" /></p>
 
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshi0609&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
-
-<img src="https://stats.quine.sh/priyanshi0609/github?theme=dark" width="400">
-<img src="https://stats.quine.sh/priyanshi0609/dependencies?theme=dark" width="400"><br>
-<img src="https://stats.quine.sh/priyanshi0609/topics-over-time?theme=dark" width="400">
-<img src="https://stats.quine.sh/priyanshi0609/languages-over-time?theme=dark" width="400">
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshi0609&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshi0609&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ArshTiwari2004&icon=0&color=11)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi0609&" alt="priyanshi0609" /></p>
 
 
 
