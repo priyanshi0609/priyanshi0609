@@ -1,6 +1,6 @@
 ## Hi there! I'm Priyanshi Bothra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### 🚀 A Passionate Frontend Developer from India
+### 🚀 A Passionate Web Developer from India
 
 <div align="center">
   <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" alt="Coding GIF" width="100%" />
