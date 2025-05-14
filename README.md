@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+
+<div align="center">
+  <p> <a href="https://portfolio-kappa-lilac-35.vercel.app/" target="_blank">View my portfolio</a></p>
+</div>
+
+
 <div align="center">
   <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" alt="Coding GIF" width="100%" />
 </div>
