@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <div align="center">
-  <p> <a href="https://portfolio-kappa-lilac-35.vercel.app/" target="_blank">View my portfolio</a></p>
+  <p> <a href="https://priyanshi-portfolio-iota.vercel.app/" target="_blank">View my portfolio</a></p>
 </div>
 
 
