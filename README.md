@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<div align="center">
-  <p> <a href="https://priyanshi-portfolio-iota.vercel.app/" target="_blank">View my portfolio</a></p>
-</div>
 
 
 <div align="center">
