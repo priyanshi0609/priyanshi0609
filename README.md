@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">SIH’25 Finalist | AI Intern @Mappls | Ex-SDE Intern @Eterna Infotech | 5× Hackathon Winner | 7× Finalist | Full Stack Web Developer | UI/UX Designer | Gen-AI | App Development</h3>
 <div align="center">
   <a href="https://priyanshi-portfolio-iota.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/priyanshi-bothra-339568219/" target="_blank">LinkedIn</a> •
   <a href="https://x.com/PriyanshiB06" target="_blank">Twitter</a> •
   <a href="https://youtube.com/@TeamSynapse3" target="_blank">YouTube</a>
-</div>>
+</div>
 
 
 <div align="center">
@@ -16,7 +16,7 @@
 <br>
 <div align="center">
 <p>
-  Hi, I’m Priyanshi Bothra, a B.Tech IT student at BPIT, Delhi, with a strong interest in building impactful tech products at the intersection of frontend development, backend systems, and AI. I enjoy turning ideas into scalable, user-friendly applications using technologies like React, Next.js, Node.js, and modern AI tools such as LangChain and LLMs. I’ve worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I focused on real-world problem solving, performance, and clean system design. I actively participate in hackathons, contribute to open source, and love working on projects that blend technology with social impact—whether it’s smart traffic systems or AI-powered learning tools. Always curious, always building, and always learning.
+  Hi, I’m Priyanshi Bothra, a B.Tech IT student at BPIT, Delhi, with a strong interest in building impactful tech products at the intersection of frontend development, backend systems, and AI. I enjoy turning ideas into scalable, user-friendly applications using technologies like React, Next.js, Node.js, and modern AI tools such as LangChain and LLMs. I’ve worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I focused on real-world problem-solving, performance, and clean system design. I actively participate in hackathons, contribute to open source, and love working on projects that blend technology with social impact—whether it’s smart traffic systems or AI-powered learning tools. Always curious, always building, and always learning.
 </p>
 
 
@@ -55,11 +55,13 @@
 </div>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshi0609&show_icons=true&locale=en&layout=compact" alt="priyanshi0609" /></p>
+<p><img align="center" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=priyanshi0609&type=languages&theme=default&chart=bars" alt="priyanshi0609" /></p>
+<p><img align ="center" src="https://gh-readme-profile.vercel.app/api?username=priyanshi0609"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshi0609&show_icons=true&locale=en" alt="priyanshi0609" /></p>
+<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=priyanshi0609"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi0609&" alt="priyanshi0609" /></p>
+
+<p><img align center</p>
 
 
 ⭐️ From [Priyanshi Bothra](https://github.com/priyanshi0609) 🚀
