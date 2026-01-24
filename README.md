@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <div align="center">
-  <a href="https://arsh-portfolio-delta.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://priyanshi-portfolio-iota.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/priyanshi-bothra-339568219/" target="_blank">LinkedIn</a> •
   <a href="https://x.com/PriyanshiB06" target="_blank">Twitter</a> •
   <a href="https://youtube.com/@TeamSynapse3" target="_blank">YouTube</a>
@@ -11,10 +11,14 @@
 <div align="center">
   <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" alt="Coding GIF" width="100%" />
 </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi0609&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi0609" /> </p>
+<br>
+<br>
+<div align="center">
+<p>
+  Hi, I’m Priyanshi Bothra, a B.Tech IT student at BPIT, Delhi, with a strong interest in building impactful tech products at the intersection of frontend development, backend systems, and AI. I enjoy turning ideas into scalable, user-friendly applications using technologies like React, Next.js, Node.js, and modern AI tools such as LangChain and LLMs. I’ve worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I focused on real-world problem solving, performance, and clean system design. I actively participate in hackathons, contribute to open source, and love working on projects that blend technology with social impact—whether it’s smart traffic systems or AI-powered learning tools. Always curious, always building, and always learning.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi0609" alt="priyanshi0609" /></a> </p
 
 <br>
 <div align="center">
