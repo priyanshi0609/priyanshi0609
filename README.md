@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <div align="center">
-  <p> <a href="https://priyanshi-portfolio-iota.vercel.app/" target="_blank">View my portfolio</a></p>
-</div>
+  <a href="https://arsh-portfolio-delta.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/priyanshi-bothra-339568219/" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/PriyanshiB06" target="_blank">Twitter</a> •
+  <a href="https://youtube.com/@TeamSynapse3" target="_blank">YouTube</a>
+</div>>
 
 
 <div align="center">
@@ -11,19 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi0609&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi0609" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi0609" alt="priyanshi0609" /></a> </p>
-
-- 🌱 I’m currently learning **AI/Ml**
-
-- 💬 Ask me about **Development and UI/UX designing**
-
-- 📫 How to reach me **priyanshibothra753@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/priyanshib06?t=uvmhbxt6bqvh49i5gvmvfw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/priyanshib06?t=uvmhbxt6bqvh49i5gvmvfw&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/priyanshi-bothra-339568219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshi-bothra-339568219" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi0609" alt="priyanshi0609" /></a> </p
 
 <br>
 <div align="center">
