@@ -27,14 +27,14 @@ Reach me at **priyanshibothra753@email.com**
 ## If you're here, you're probably looking for my work:
 
 - [**Signal-X**](https://signal-x-zkh5.vercel.app): AI powered traffic intelligence system using computer vision and adaptive signal control for congestion optimization and emergency vehicle prioritization.
-  → [Code](https://github.com/ArshTiwari2004/Signal-X)
+  → [Code](https://github.com/priyanshi0609/Signal--X)
 
 - [**ComminuSense**](https://comminusense.vercel.app) — Industrial IoT and ML digital twin platform built for NMDC having machine telemetry, predictive maintenance, and operational analytics.  
   🏆 Top 5 National Project at Smart India Hackathon 2025 grand finals.
-  → [Code](https://github.com/ArshTiwari2004/comminusense)
+  → [Code](https://github.com/priyanshi0609/comminusensee)
 
 - [**Recap**](https://recap-5ajg.vercel.app): AI powered note taking and knowledge system designed to evolve with your learning journey.
-  → [Code](https://github.com/ArshTiwari2004/Recap)
+  → [Code](https://github.com/priyanshi0609/Recap)
 
 ## Tech stack I work with:
 
