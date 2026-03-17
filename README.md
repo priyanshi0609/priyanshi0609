@@ -86,10 +86,6 @@ Reach me at **priyanshibothra753@email.com**
 
 ## A little about me:
 
-I'm a B.Tech IT student at BPIT, Delhi, with a strong interest in building impactful tech products at the intersection of frontend development, backend systems, and AI. I enjoy turning ideas into scalable, user-friendly applications using technologies like React, Next.js, Node.js, and modern AI tools such as LangChain and LLMs.
-
-I've worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I focused on real-world problem-solving, performance, and clean system design. I actively participate in hackathons, contribute to open source, and love working on projects that blend technology with social impact. I also share my tech experiences on YouTube and am starting to write on Medium and Hashnode.
-
-I am a SIH'25 Finalist and a 5× Hackathon Winner. I consider myself disciplined and always looking for environments where meaningful work is valued.
+I'm a B.Tech student with strong foundations in Data Structures & Algorithms, and core CS fundamentals like DBMS, OS, and System Design and  work with multiple frameworks and languages like React , Nextjs , Python etc. I've worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I improved platform scalability, and shipped production-ready features. A 5× Hackathon Winner and 7× Finalist, I also write on Hashnode around Agentic AI. Always building, always curious.
 
 #### At last, check out my projects below 👇
