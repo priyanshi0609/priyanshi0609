@@ -27,7 +27,7 @@ Reach me at **priyanshibothra753@email.com**
 ## If you're here, you're probably looking for my work:
 
 - [**Signal-X**](https://signal-x-zkh5.vercel.app): AI powered traffic intelligence system using computer vision and adaptive signal control for congestion optimization and emergency vehicle prioritization.
-   🏆 Won IIT Delhi Hackathon with Project ( Tryst'25)
+  🏆 Won IIT Delhi Hackathon with Project ( Tryst'25)
   → [Code](https://github.com/priyanshi0609/Signal--X)
 
 - [**ComminuSense**](https://comminusense.vercel.app) — Industrial IoT and ML digital twin platform built for NMDC having machine telemetry, predictive maintenance, and operational analytics.  
