@@ -1,67 +1,95 @@
-<h1 align="center">Hi 👋, I'm Priyanshi Bothra</h1>
-<h3 align="center">SIH’25 Finalist | AI Intern @Mappls | Ex-SDE Intern @Eterna Infotech | 5× Hackathon Winner | 7× Finalist | Full Stack Web Developer | UI/UX Designer | Gen-AI | App Development</h3>
-<div align="center">
-  <a href="https://priyanshi-portfolio-iota.vercel.app/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/priyanshi-bothra-339568219/" target="_blank">LinkedIn</a> •
-  <a href="https://x.com/PriyanshiB06" target="_blank">Twitter</a> •
-  <a href="https://youtube.com/@TeamSynapse3" target="_blank">YouTube</a>
-</div>
+<h1>Hi, I'm Priyanshi Bothra 👋</h1>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanshi-bothra-339568219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-<div align="center">
-  <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" alt="Coding GIF" width="100%" />
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi0609&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi0609" /> </p>
-<br>
-<br>
-<div align="center">
-<p>
-  Hi, I’m Priyanshi Bothra, a B.Tech IT student at BPIT, Delhi, with a strong interest in building impactful tech products at the intersection of frontend development, backend systems, and AI. I enjoy turning ideas into scalable, user-friendly applications using technologies like React, Next.js, Node.js, and modern AI tools such as LangChain and LLMs. I’ve worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I focused on real-world problem-solving, performance, and clean system design. I actively participate in hackathons, contribute to open source, and love working on projects that blend technology with social impact—whether it’s smart traffic systems or AI-powered learning tools. Always curious, always building, and always learning.
+  <a href="https://x.com/PriyanshiB06">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+
+  <a href="https://priyanshi-portfolio-iota.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+
+  <a href="https://youtube.com/@TeamSynapse3">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </p>
 
+Reach me at **priyanshibothra753@email.com**
 
-<br>
-<div align="center">
-<table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,c"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI/ML:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,flutter,androidstudio"/></td>
-    </tr>
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/priyanshi0609)
+
+## If you're here, you're probably looking for my work:
+
+- [**Signal-X**](https://signal-x-zkh5.vercel.app): AI powered traffic intelligence system using computer vision and adaptive signal control for congestion optimization and emergency vehicle prioritization.
+  → [Code](https://github.com/ArshTiwari2004/Signal-X)
+
+- [**ComminuSense**](https://comminusense.vercel.app) — Industrial IoT and ML digital twin platform built for NMDC having machine telemetry, predictive maintenance, and operational analytics.  
+  🏆 Top 5 National Project at Smart India Hackathon 2025 grand finals.
+  → [Code](https://github.com/ArshTiwari2004/comminusense)
+
+- [**Recap**](https://recap-5ajg.vercel.app): AI powered note taking and knowledge system designed to evolve with your learning journey.
+  → [Code](https://github.com/ArshTiwari2004/Recap)
+
+## Tech stack I work with:
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,c"/></td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui"/></td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php"/></td>
+</tr>
+
+<tr>
+<td><b>Database</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase"/></td>
+</tr>
+
+<tr>
+<td><b>AI/ML</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></td>
+</tr>
+
+<tr>
+<td><b>DevOps & Tools</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode"/></td>
+</tr>
+
+<tr>
+<td><b>Mobile</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,flutter,androidstudio,reactnative"/></td>
+</tr>
 </table>
-</div>
-<br>
 
-<p><img align="center" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=priyanshi0609&type=languages&theme=default&chart=bars" alt="priyanshi0609" /></p>
-<p><img align ="center" src="https://gh-readme-profile.vercel.app/api?username=priyanshi0609"/></p>
+## GitHub stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshi0609&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi0609&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi0609&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=priyanshi0609"/></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshi0609&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 
+## A little about me:
 
-<p><img align center</p>
+I'm a B.Tech IT student at BPIT, Delhi, with a strong interest in building impactful tech products at the intersection of frontend development, backend systems, and AI. I enjoy turning ideas into scalable, user-friendly applications using technologies like React, Next.js, Node.js, and modern AI tools such as LangChain and LLMs.
 
+I've worked as an AI Intern at Mappls and a Software Developer Intern at Eterna Infotech, where I focused on real-world problem-solving, performance, and clean system design. I actively participate in hackathons, contribute to open source, and love working on projects that blend technology with social impact. I also share my tech experiences on YouTube and am starting to write on Medium and Hashnode.
 
-⭐️ From [Priyanshi Bothra](https://github.com/priyanshi0609) 🚀
+I am a SIH'25 Finalist and a 5× Hackathon Winner. I consider myself disciplined and always looking for environments where meaningful work is valued.
+
+#### At last, check out my projects below 👇
